@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://modern-blog-management-system-qqbo.vercel.app/sitemap.xml
